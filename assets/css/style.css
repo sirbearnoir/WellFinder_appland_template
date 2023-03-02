@@ -9,8 +9,9 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
-  color: #585a61;
+  font-family: "Inter", sans-serif;
+  color: #000000;
+  background-color: #eaf9ff;
 }
 
 a {
@@ -29,7 +30,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Solway", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -110,7 +111,8 @@ h6 {
 
 #header .logo img {
   margin: 0;
-  max-height: 40px;
+  width: 100px;
+  height: auto;
 }
 
 /*--------------------------------------------------------------
@@ -483,8 +485,12 @@ section {
   font-weight: 400;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #5777ba;
-  font-family: "Poppins", sans-serif;
+  color: #000000;
+  font-family: "Solway", sans-serif;
+}
+
+.section-text {
+  text-align: left;
 }
 
 .section-title p {
