@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #7b94c9;
+  color: #005276;
   text-decoration: none;
 }
 
@@ -375,7 +375,7 @@ h6 {
   width: 250%;
   height: 200%;
   z-index: -1;
-  background-color: #e8ecf5;
+  background-color: #F1EAF4;
   transform: skewY(135deg);
 }
 
@@ -385,7 +385,7 @@ h6 {
   font-weight: 500;
   line-height: 56px;
   color: #5777ba;
-  font-family: "Poppins", sans-serif;
+  font-family: "Solway", sans-serif;
 }
 
 #hero h2 {
@@ -472,7 +472,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f2f5fa;
+  background-color: #F1EAF4;
 }
 
 .section-title {
@@ -661,8 +661,8 @@ section {
   }
 
   .gallery .swiper-slide-active {
-    border: 6px solid #5777ba;
-    padding: 4px;
+    border: 7px solid #007DB3;
+    padding: 5px;
     background: #fff;
     z-index: 1;
     transform: scale(1.2);
@@ -954,7 +954,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   padding: 20px 40px;
-  background: #f1f3f6;
+  background: #F1EAF4;
   color: #47536e;
   text-align: center;
   border: 1px solid #fff;
@@ -1111,7 +1111,7 @@ section {
 
 #footer .footer-newsletter {
   padding: 50px 0;
-  background: #eff2f8;
+  background: #F1EAF4;
   text-align: center;
   font-size: 15px;
 }
