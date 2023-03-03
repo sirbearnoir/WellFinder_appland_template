@@ -143,9 +143,9 @@ h6 {
   align-items: center;
   justify-content: space-between;
   padding: 10px 0 10px 30px;
-  font-family: "Raleway", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 15px;
-  color: #47536e;
+  color: #007db3;
   white-space: nowrap;
   transition: 0.3s;
 }
