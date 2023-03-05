@@ -841,16 +841,20 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
+.contact {
+  background-color:#eaf9ff;
+}
+
 .contact .info {
   padding: 20px 40px;
-  background: #eaf9ff;
+  background: #ffffff;
   text-align: center;
   border: 1px solid #fff;
 }
 
 .contact .info i {
   font-size: 48px;
-  color: #333333;
+  color: #007db3;
   margin-bottom: 15px;
 }
 
