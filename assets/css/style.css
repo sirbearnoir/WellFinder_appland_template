@@ -643,13 +643,13 @@ section {
 .gallery .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #eaf9ff;
   opacity: 1;
-  border: 1px solid #5777ba;
+  border: 1px solid #007db3;
 }
 
 .gallery .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #5777ba;
+  background-color: #007db3;
 }
 
 .gallery .swiper-slide-active {
