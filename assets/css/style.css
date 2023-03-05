@@ -375,7 +375,7 @@ h6 {
   width: 250%;
   height: 200%;
   z-index: -1;
-  background-color: #F1EAF4;
+  background-color: #Ffffff;
   transform: skewY(135deg);
 }
 
@@ -384,18 +384,18 @@ h6 {
   font-size: 48px;
   font-weight: 500;
   line-height: 56px;
-  color: #5777ba;
+  color: #007db3;
   font-family: "Solway", sans-serif;
 }
 
 #hero h2 {
-  color: #515f7d;
+  color: #000000;
   margin-bottom: 50px;
   font-size: 20px;
 }
 
 #hero .download-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "Solway", sans-serif;
   font-weight: 500;
   font-size: 15px;
   display: inline-block;
@@ -403,12 +403,12 @@ h6 {
   border-radius: 3px;
   transition: 0.5s;
   color: #fff;
-  background: #47536e;
+  background: #007db3;
   position: relative;
 }
 
 #hero .download-btn:hover {
-  background: #5777ba;
+  background: #005276;
 }
 
 #hero .download-btn i {
