@@ -697,7 +697,7 @@ section {
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
   border-radius: 20px;
-  border: 6px solid #cccccc;
+  border: 6px solid #007db3;
   position: absolute;
   left: -45px;
 }
@@ -843,15 +843,15 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   padding: 20px 40px;
-  background: #F1EAF4;
-  color: #47536e;
+  background: #eaf9ff;
+  color: #ffffff;
   text-align: center;
   border: 1px solid #fff;
 }
 
 .contact .info i {
   font-size: 48px;
-  color: #9fb2d8;
+  color: #333333;
   margin-bottom: 15px;
 }
 
@@ -861,7 +861,7 @@ section {
   font-size: 16px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .contact .info p {
@@ -942,16 +942,16 @@ section {
 
 .contact .php-email-form button[type=submit] {
   background: #fff;
-  border: 2px solid #5777ba;
+  border: 2px solid #007db3;
   padding: 10px 24px;
-  color: #5777ba;
+  color: #007db3;
   transition: 0.4s;
   border-radius: 50px;
   margin-top: 5px;
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #5777ba;
+  background: #005276;
   color: #fff;
 }
 
