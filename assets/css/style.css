@@ -11,7 +11,7 @@
 body {
   font-family: "Inter", sans-serif;
   color: #000000;
-  background-color: #eaf9ff;
+  background-color: #ffffff;
 }
 
 a {
@@ -166,7 +166,7 @@ h6 {
 
 .navbar .getstarted,
 .navbar .getstarted:focus {
-  background: #5777ba;
+  background: #007db3;
   color: #fff;
   padding: 12px 25px;
   margin-left: 30px;
@@ -177,7 +177,7 @@ h6 {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #748ec6;
+  background: #005276;
   color: #fff;
 }
 
@@ -309,13 +309,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #47536e;
+  color: #007db3;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #5777ba;
+  color: #005276;
 }
 
 .navbar-mobile .getstarted,
@@ -350,7 +350,7 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #5777ba;
+  color: #007db3;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
