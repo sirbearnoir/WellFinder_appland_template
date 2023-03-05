@@ -485,7 +485,7 @@ section {
   font-weight: 400;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #000000;
+  color: #333333;
   font-family: "Solway", sans-serif;
 }
 
@@ -570,7 +570,7 @@ section {
 
 .features .content .icon-box p {
   font-size: 15px;
-  color: #999999;
+  color: #333333;
   margin-left: 60px;
 }
 
@@ -628,6 +628,7 @@ section {
 --------------------------------------------------------------*/
 .gallery {
   overflow: hidden;
+  background-color: #eaf9ff ;
 }
 
 .gallery .swiper-slide {
