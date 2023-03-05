@@ -844,7 +844,6 @@ section {
 .contact .info {
   padding: 20px 40px;
   background: #eaf9ff;
-  color: #ffffff;
   text-align: center;
   border: 1px solid #fff;
 }
@@ -1011,7 +1010,7 @@ section {
   padding: 0;
   line-height: 1;
   font-weight: 600;
-  color: #47536e;
+  color: #333333;
 }
 
 #footer .footer-newsletter form {
@@ -1039,7 +1038,7 @@ section {
   background: none;
   font-size: 16px;
   padding: 0 20px;
-  background: #5777ba;
+  background: #007db3;
   color: #fff;
   transition: 0.3s;
   border-radius: 50px;
@@ -1047,12 +1046,12 @@ section {
 }
 
 #footer .footer-newsletter form input[type=submit]:hover {
-  background: #415f9d;
+  background: #005276;
 }
 
 #footer .footer-top {
   padding: 60px 0 30px 0;
-  background: #fff;
+  background: #f2f2f2;
 }
 
 #footer .footer-top .footer-contact {
@@ -1072,14 +1071,14 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Raleway", sans-serif;
-  color: #8a8c95;
+  font-family: "Inter", sans-serif;
+  color: #333333;
 }
 
 #footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #47536e;
+  color: #333333;
   position: relative;
   padding-bottom: 12px;
 }
@@ -1096,7 +1095,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #9fb2d8;
+  color: #333333;
   font-size: 18px;
   line-height: 1;
 }
@@ -1112,7 +1111,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #8a8c95;
+  color: #333333;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -1126,7 +1125,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #5777ba;
+  background: #007db3;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1139,7 +1138,7 @@ section {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #27282c;
+  background: #005276;
   color: #fff;
   text-decoration: none;
 }
@@ -1154,7 +1153,7 @@ section {
   float: right;
   text-align: center;
   font-size: 13px;
-  color: #47536e;
+  color: #005276;
 }
 
 @media (max-width: 768px) {
