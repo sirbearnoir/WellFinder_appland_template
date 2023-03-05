@@ -680,6 +680,10 @@ section {
   overflow: hidden;
 }
 
+.testimonials {
+  background-color: #ffffff;
+}
+
 .testimonials .testimonial-item {
   box-sizing: content-box;
   padding: 30px 30px 30px 60px;
