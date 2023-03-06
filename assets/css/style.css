@@ -362,6 +362,7 @@ h6 {
 --------------------------------------------------------------*/
 .bg-image {
   height: 100vh;
+  width: 100%;
   
 }
 #hero {
@@ -1072,7 +1073,7 @@ section {
   padding: 2px 0 2px 0;
   line-height: 1;
   font-weight: 700;
-  color: #47536e;
+  color: #333333;
 }
 
 #footer .footer-top .footer-contact p {
