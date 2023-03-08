@@ -579,6 +579,10 @@ section {
   margin-left: 60px;
 }
 
+#aboutCenter{
+ justify-content: center; 
+}
+
 @media (max-width: 991px) {
   .features .image {
     text-align: center;
@@ -1174,3 +1178,4 @@ section {
     padding: 5px 0;
   }
 }
+
